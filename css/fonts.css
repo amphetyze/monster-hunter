@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@font-face {
+    font-family: 'Choco cooky';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Choco cooky'), url('../fonts/Choco-Cooky/Chococooky.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Cookies';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cookies'), url('../fonts/Cookies/Cookies.ttf') format('woff');
+}
